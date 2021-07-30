@@ -9,3 +9,7 @@ https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-ind
 
 ## Advanced
 https://www.kaggle.com/aayushkubba/text-classification-with-python-and-keras/edit
+
+
+# About Me
+https://docs.google.com/presentation/d/16e3OtwyDE8M7CWu7dZoQFTz23YbeYwI0qlKOCM3oExY/edit?usp=sharing
