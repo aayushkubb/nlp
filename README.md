@@ -1,3 +1,8 @@
+# Presentation
+
+NLP Basics
+https://1drv.ms/p/s!AtFXGiCNWZXT93lVmIBjow-pFs-K?e=yGNfc2
+
 # Important Links
 https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-individual-words-in-nlp-f58a93a2f84a
 
