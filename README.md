@@ -24,9 +24,13 @@ https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-ind
  https://www.kaggle.com/aayushkubba/a-look-at-different-embeddings
  https://www.kaggle.com/aayushkubba/simple-exploration-notebook-qiqc
 
+
 ## Advanced
 https://www.kaggle.com/aayushkubba/text-classification-with-python-and-keras/edit
 
+
+## AV Competitions
+https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis
 
 # About Me
 https://docs.google.com/presentation/d/16e3OtwyDE8M7CWu7dZoQFTz23YbeYwI0qlKOCM3oExY/edit?usp=sharing
