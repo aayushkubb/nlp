@@ -19,6 +19,10 @@ https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-ind
   https://www.kaggle.com/aayushkubba/sentiment-analysis-with-hotel-reviews
   
   https://www.kaggle.com/aayushkubba/sentiment-analysis-of-imdb-movie-reviews
+  
+ ## QUORA Dataset
+ https://www.kaggle.com/aayushkubba/a-look-at-different-embeddings
+ https://www.kaggle.com/aayushkubba/simple-exploration-notebook-qiqc
 
 ## Advanced
 https://www.kaggle.com/aayushkubba/text-classification-with-python-and-keras/edit
