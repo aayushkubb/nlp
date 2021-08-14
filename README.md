@@ -34,5 +34,10 @@ https://www.kaggle.com/aayushkubba/text-classification-with-python-and-keras/edi
 ## AV Competitions
 https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis
 
+# BOOKS
+
+1. Focus on NLTK library: http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf
+2. Taming Text (No online free resource available)
+
 # About Me
 https://docs.google.com/presentation/d/16e3OtwyDE8M7CWu7dZoQFTz23YbeYwI0qlKOCM3oExY/edit?usp=sharing
