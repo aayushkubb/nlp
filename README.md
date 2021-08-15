@@ -10,6 +10,10 @@ https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da
 NLP Basics
 https://1drv.ms/p/s!AtFXGiCNWZXT93lVmIBjow-pFs-K?e=H6SnXa
 
+# NLP Basics pdf
+https://1drv.ms/b/s!AtFXGiCNWZXT-GlG6uMxhkELtvgw?e=hiXD3N
+
+
 https://1drv.ms/b/s!AtFXGiCNWZXT-GlG6uMxhkELtvgw?e=UkJMeU
 
 
