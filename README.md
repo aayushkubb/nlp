@@ -45,8 +45,13 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-
 
 # Advance NLP - Books and Resources
 http://web.stanford.edu/~jurafsky/slp3/
-
 It covers basics to advanced and also maths behind most of the NLP tasks.
+
+# Word2Vec Tutorials
+Basic Problem Statement:
+https://www.kaggle.com/c/word2vec-nlp-tutorial/data
+1. https://www.kaggle.com/aayushkubba/gensim-word2vec-tutorial
+2. https://www.kaggle.com/aayushkubba/nlp-word2vec
 
 # About Me
 https://docs.google.com/presentation/d/16e3OtwyDE8M7CWu7dZoQFTz23YbeYwI0qlKOCM3oExY/edit?usp=sharing
