@@ -7,6 +7,9 @@ https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da
 
 # Presentation
 
+# Regex Basics
+https://www.machinelearningplus.com/python/python-regex-tutorial-examples/
+
 NLP Basics
 https://1drv.ms/p/s!AtFXGiCNWZXT93lVmIBjow-pFs-K?e=H6SnXa
 
