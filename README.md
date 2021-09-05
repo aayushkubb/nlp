@@ -51,6 +51,9 @@ http://web.stanford.edu/~jurafsky/slp3/
 It covers basics to advanced and also maths behind most of the NLP tasks.
 
 # Word2Vec Tutorials
+
+In Class Tutorial: https://www.kaggle.com/aayushkubba/word2vec-tutorial
+
 Basic Problem Statement:
 https://www.kaggle.com/c/word2vec-nlp-tutorial/data
 1. https://www.kaggle.com/aayushkubba/gensim-word2vec-tutorial
