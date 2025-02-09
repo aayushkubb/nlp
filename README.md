@@ -52,12 +52,14 @@ It covers basics to advanced and also maths behind most of the NLP tasks.
 
 # Word2Vec Tutorials
 
-In Class Tutorial: https://www.kaggle.com/aayushkubba/word2vec-tutorial
+In Class Tutorial: https://www.kaggle.com/code/aayushkubba/word2vec-tutorial
 
 Basic Problem Statement:
 https://www.kaggle.com/c/word2vec-nlp-tutorial/data
 1. https://www.kaggle.com/aayushkubba/gensim-word2vec-tutorial
 2. https://www.kaggle.com/aayushkubba/nlp-word2vec
+3. https://www.kaggle.com/code/aayushkubba/basic-nlp-bag-of-words-tf-idf-word2vec-lstm
+4. 
 
 # About Me
 https://docs.google.com/presentation/d/16e3OtwyDE8M7CWu7dZoQFTz23YbeYwI0qlKOCM3oExY/edit?usp=sharing
