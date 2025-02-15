@@ -24,6 +24,10 @@ https://1drv.ms/b/s!AtFXGiCNWZXT-GlG6uMxhkELtvgw?e=UkJMeU
 https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-individual-words-in-nlp-f58a93a2f84a
 
 # Kaggle Notebooks
+
+## Quora Problem:
+  Without Embeddings:https://github.com/aayushkubb/nlp/blob/main/QUORA_Class_Practice.ipynb 
+  With Pre-trained Embeddings: https://www.kaggle.com/code/aayushkubba/quora-with-different-embeddings
 ## Basics
   https://www.kaggle.com/aayushkubba/sentiment-analysis-with-hotel-reviews
   
