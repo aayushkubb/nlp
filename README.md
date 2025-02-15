@@ -27,6 +27,7 @@ https://medium.com/@nicharuch/collocations-identifying-phrases-that-act-like-ind
 
 ## Quora Problem:
   Without Embeddings:https://github.com/aayushkubb/nlp/blob/main/QUORA_Class_Practice.ipynb 
+  Simple Notebook: https://www.kaggle.com/code/aayushkubba/quora-simple-tf-idf-bert
   With Pre-trained Embeddings: https://www.kaggle.com/code/aayushkubba/quora-with-different-embeddings
 ## Basics
   https://www.kaggle.com/aayushkubba/sentiment-analysis-with-hotel-reviews
